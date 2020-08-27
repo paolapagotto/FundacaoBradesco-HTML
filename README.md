@@ -1,2 +1,31 @@
 # FundacaoBradesco-HTML
-HTML e CSS na Prática  Duração 24h  Nível Iniciante |  Em 1989, Tim Berners-Lee apresentou a primeira proposta para a World Wide Web (rede mundial de computadores). Desde então, a importância da internet só cresceu. De forma breve, a World Wide Web (www ou apenas Web) é composta por pequenas quantidades de documentos interligados por meio de hiperlinks. Os hiperlinks tornam a navegação não linear e independente, e cada conjunto de documentos é chamado de página web. Um website - ou simplesmente site - é, tão somente, um determinado conjunto de páginas web localizadas em um mesmo endereço web.  Como usuários massivos da internet, todos sabemos que as páginas web possuem títulos, imagens, textos, formulários e muitos outros elementos. As estruturas e os conteúdos das páginas web são criados a partir de uma linguagem de marcação chamada HTML (hypertext markup language). Programar para a web requer, dessa forma, o domínio dos recursos e comandos da linguagem HTML, em constante evolução desde a sua criação.  Neste curso, você aprenderá tudo o que é necessário para produzir um website utilizando as linguagens HTML5 e CSS. Por meio das várias demonstrações disponibilizadas, você terá a oportunidade de ver como codificar um website com layout moderno, agradável e tecnologia responsiva.  Se você já possui conhecimentos iniciais em HTML e deseja ver, na prática, como aplicar recursos mais avançados, este é o curso indicado.
+HTML e CSS na Prática  Duração 24h  
+
+    Capítulo 1 – Desenvolvimento Web
+        Tópico 1: Internet
+            Internet: definição e trajetória
+            Navegadores Web
+            Acessibilidade
+        Tópico 2: Estrutura Básica HTML
+            Tags e Metatags
+            Doctype
+            Especificações e atributos
+            Formatação dos textos
+            Inserção de links, imagens, tabelas e formulários
+        Tópico 3: Cascading Style Sheets (CSS)
+            Propriedades do CSS
+            Tipos de CSS
+            Aparência das páginas HTML
+    Capítulo 2 – Tableless e HTML5
+        Tópico 1: Conceito de Tableless e HTML5
+            Conceito tableless
+            DIVs
+            Surgimento do HTML5
+        Tópico 2: Elaboração de uma página web passo a passo
+            Etapas de desenvolvimento de uma página web
+            Editores de texto HTML
+            Margin e padding
+            Criação de páginas web
+
+
+
