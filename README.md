@@ -1,5 +1,6 @@
 # FundacaoBradesco-HTML
 HTML e CSS na Prática  Duração 24h  
+(Acesso em: https://codehtml.netlify.app/ )
 
     Capítulo 1 – Desenvolvimento Web
         Tópico 1: Internet
